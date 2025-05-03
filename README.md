@@ -1,6 +1,6 @@
 # Claude 官网入口：Claude 3.7 Sonnet 国内使用指南~  （无需翻墙）【2025年5月更新】
 
-> 更新时间：2025-05-03       
+> 更新时间：2025-05-04       
 
 全面体验 [**Claude 3.7 Sonnet**](https://chat.lanjing.pro)，**国内直连，无需翻墙**，**支持 Claude 3.7 Sonnet 及更多中文版功能**   
 
