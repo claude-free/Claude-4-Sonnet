@@ -1,13 +1,13 @@
 # Claude 官网入口：Claude 3.7 Sonnet 国内使用指南~  （无需翻墙）【2025年5月更新】
 
-> 更新时间：2025-05-10        
+> 更新时间：2025-05-31        
 
 全面体验 [**Claude 3.7 Sonnet**](https://chat.lanjing.pro)，**国内直连，无需翻墙**，**支持 Claude 3.7 Sonnet 及更多中文版功能**   
 
-本指南提供详细的 **Claude 国内使用指南**，包括国内可用的 [**Claude 官网入口**](https://chat.lanjing.pro)、[**Claude 镜像网站**](https://chat.yixiaai.com)、[**Claude 中文版**](https://chat.lanjing.pro) 和详细的使用教程，助您快速上手 Claude~
+本指南提供详细的 **Claude 国内使用指南**，包括国内可用的 [**Claude 官网入口**](https://chat.lanjing.pro)、[**Claude 镜像网站**](https://xsimplechat.com)、[**Claude 中文版**](https://chat.lanjing.pro) 和详细的使用教程，助您快速上手 Claude~
 
 **Claude 官网国内入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
-**Claude 镜像网站：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
+**Claude 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
@@ -24,9 +24,9 @@
 ## 推荐的国内 Claude 3.7 Sonnet 镜像网站
 以下是我们精选的国内优质 **Claude 3.7 Sonnet 中文版镜像网站**，无需翻墙即可使用：
 
-- [chat.yixiaai.com](https://chat.yixiaai.com/) - **Claude 3.7 Sonnet 中文版**，支持 claude-3.7-sonnet、GPT-o1、o3 及 Groq-3，支持 AI 绘画，扫码即可使用。
+- [xsimplechat.com](https://xsimplechat.com/) - **Claude 3.7 Sonnet 中文版**，支持 claude-3.7-sonnet、GPT-o1、o3 及 Groq-3，支持 AI 绘画，扫码即可使用。
 - [chat.lanjing.pro](https://chat.lanjing.pro/) - **Claude 3.7 Sonnet 中文站**，支持 claude 3.7 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
-- [chat.lify.vip](https://www.yixiaai.com/) - **Claude 3.7 Sonnet 镜像网站**，支持 claude-3.7、claude-3.5、GPT-o1、o3 及 Groq-3，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
+- [chat.lify.vip](https://chat.yixiaai.com/) - **Claude 3.7 Sonnet 镜像网站**，支持 claude-3.7、claude-3.5、GPT-o1、o3 及 Groq-3，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
 - [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) - **ChatGPT 镜像网站**，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - **ChatGPT-4 镜像网站**，支持 GPT-4、4o，使用简单便捷。
 - [lanjing.pro](https://lanjing.pro/) - **免费 ChatGPT**，支持 GPT-4、4o 和 MJ 绘画。
@@ -35,7 +35,7 @@
 
 ## 如何使用 Claude 3.7 Sonnet 中文版？
 
-1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com))**）。
+1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([xsimplechat.com](https://xsimplechat.com))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 **Claude 3.7 Sonnet** 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
